@@ -45,10 +45,13 @@ Jarvis: la télé est alumée...
 
 You: Eteint la télé.
 Jarvis: la télé est éteinte...
+    Après 2 secondes
+Jarvis: La Télévision est encore allumée, il y a du avoir un bug, je reforce son arrêt.
+
 
 You: Etat de la télé ? 
 Jarvis: Je vais mesurer son état, patientez...
-Jarvis: La Télévision est arrêtée.
+Jarvis: Je n'arrive pas à communiquer avec la télé, elle doit être arrétée par l'interupteur.
 
 
 ## Author
