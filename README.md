@@ -48,7 +48,7 @@ Jarvis: la télé est éteinte...
 
 You: Etat de la télé ? 
 Jarvis: Je vais mesurer son état, patientez...
-Jarvis: La Télvision est arrêtée.
+Jarvis: La Télévision est arrêtée.
 
 
 ## Author
